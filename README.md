@@ -5,11 +5,11 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: Constantes y Variables</h2>
-    <img src="./public/images/Punto-1" alt="Punto 1">
+    <img src="./public/images/Punto-1.png" alt="Punto 1">
 
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
-    <img src="./public/images/Punto-2" alt="Punto 2">
-    
+    <img src="./public/images/Punto-2.png" alt="Punto 2">
+
 <h2>Punto 3: Sumas de dos numero indicados por el usario</h2>
 
 <h2>Punto 4: Datos del usuario en consola</h2>
