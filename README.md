@@ -13,16 +13,22 @@
 <h2>Punto 3: Sumas de dos numero indicados por el usario</h2>
 
 <h2>Punto 4: Datos del usuario en consola</h2>
+    <img src="./public/images/Punto-4.png" alt="Punto 4">
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
+    <img src="./public/images/Punto-5.png" alt="Punto 5">
 
 <h2>Punto 6: Deteccion de mayoria de edad</h2>
+    <img src="./public/images/Punto-6.png" alt="Punto 6">
 
 <h2>Punto 7: Seleccion de operacion aritmetica</h2>
+    <img src="./public/images/Punto-7.png" alt="Punto 7">
 
 <h2>Punto 8: Entrar a la bolera usando Swicth</h2>
+    <img src="./public/images/Punto-8.png" alt="Punto 8">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
+    <img src="./public/images/Punto-9.png" alt="Punto 9">
 
 <h2>Punto 10: Numero pares usando while</h2>
 

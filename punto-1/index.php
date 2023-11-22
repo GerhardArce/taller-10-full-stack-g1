@@ -1,9 +1,12 @@
 <?php
-    //ENTRY DATA
     $entry = "Nombre" ;
-    const DIOMEDEZ = "Diaz";
+    const DIOMEDES = "Diomedez";
 
-    echo $entry . " " . DIOMEDEZ . "\n";
-    $entry = "Diomedez";
-    echo $entry;
+    echo $entry . " = " . DIOMEDES . "\n";
+
+    $entry = "Diaz";
+    echo "Apellido = " . $entry;
+
+    $entry = "lo mejor del vallenato";
+    echo "\n" . "Apodo = " . $entry;  
 ?>
