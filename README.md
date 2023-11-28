@@ -31,13 +31,18 @@
     <img src="./public/images/Punto-9.png" alt="Punto 9">
 
 <h2>Punto 10: Numero pares usando while</h2>
+<img src="./public/images/Punto-9.png" alt="Punto 9">
 
 <h2>Punto 11: Numero inpares usando for</h2>
+    <img src="./public/images/Punto-10.png" alt="Punto 10">
 
 <h2>Punto 12: Tabla de multipicar usando for</h2>
+    <img src="./public/images/Punto-11.png" alt="Punto 11">
 
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
 
 <h2>Punto 14: Revision de contraseña</h2>
 
 <h2>Punto 15: Seleccion de operacion aritmetica usando funciones</h2>
+    <img src="./public/images/Punto-15.png" alt="Punto 15">
+    <img src="./public/images/Punto-15-2.png" alt="Punto 15-2">
