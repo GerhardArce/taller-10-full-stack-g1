@@ -11,6 +11,7 @@
     <img src="./public/images/Punto-2.png" alt="Punto 2">
 
 <h2>Punto 3: Sumas de dos numero indicados por el usario</h2>
+    <img src="./public/images/Punto-3.png" alt="Punto 3">
 
 <h2>Punto 4: Datos del usuario en consola</h2>
     <img src="./public/images/Punto-4.png" alt="Punto 4">
@@ -31,18 +32,21 @@
     <img src="./public/images/Punto-9.png" alt="Punto 9">
 
 <h2>Punto 10: Numero pares usando while</h2>
-<img src="./public/images/Punto-9.png" alt="Punto 9">
+<img src="./public/images/Punto-10.png" alt="Punto 10">
 
 <h2>Punto 11: Numero inpares usando for</h2>
-    <img src="./public/images/Punto-10.png" alt="Punto 10">
-
-<h2>Punto 12: Tabla de multipicar usando for</h2>
     <img src="./public/images/Punto-11.png" alt="Punto 11">
 
+<h2>Punto 12: Tabla de multipicar usando for</h2>
+    <img src="./public/images/Punto-12.png" alt="Punto 12">
+
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
+    <img src="./public/images/Punto-13.png" alt="Punto 13">
 
 <h2>Punto 14: Revision de contraseña</h2>
-
+    <img src="./public/images/Punto-14.png" alt="Punto 14">
+    <img src="./public/images/Punto-14-2.png" alt="Punto 14-2">
+    
 <h2>Punto 15: Seleccion de operacion aritmetica usando funciones</h2>
     <img src="./public/images/Punto-15.png" alt="Punto 15">
     <img src="./public/images/Punto-15-2.png" alt="Punto 15-2">
