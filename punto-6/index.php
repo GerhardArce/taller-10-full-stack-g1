@@ -2,7 +2,6 @@
     //ENTRY DATA
         $age = 0;
         $name = "";
-        const Price = 25000;
 
     //PROCESS
         echo "Write your name \n"; 

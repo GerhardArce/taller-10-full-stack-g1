@@ -1,4 +1,4 @@
-<h1>Taller 10 - Cristian Felipe Patiño Caceres</h1>
+<h1>Taller 10 - Dylan Gerhard Arce Triviño</h1>
 
 <h2>Informacion</h2>
 <p>Curso: Full stack Basico - Grupo 1</p>

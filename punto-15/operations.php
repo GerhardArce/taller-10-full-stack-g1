@@ -25,7 +25,6 @@
       return split($x, $y);
     default:
       return "Invalid option";  
-      return 0;
     }
   }
 

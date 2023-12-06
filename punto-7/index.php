@@ -34,5 +34,5 @@
             break;
           default:
             echo "Invalid result";
-          endswitch;
+        endswitch;
 ?>

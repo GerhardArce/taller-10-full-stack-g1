@@ -6,18 +6,18 @@
 
     //PROCESS
         echo "Write your type of afilation (ONLY A OR B) \n"; 
-        $afilationtype = readline();
+        $afilationtype = strtoupper(readline());
 
         echo "Write the number of people \n";
-        $people = readline();
+        $people = strtoupper(readline());
 
     //EXIT DATA
-        if($afilationtype == "B" ){
+        if($afilationtype == "B" || $afilationtype == "A"){
           $total = $people * Price;
+          $total = $total * .70;
           echo "The total is: " . $total . "\n";
-        } else if($afilationtype == "A"){
+        } else {
           $total = $people * Price;
-          $total2 = $total * .70;
-          echo "The total is: " . $total2 . "\n";
+          echo "You don't have any afilation " . $total . "\n";
         }
 ?>
